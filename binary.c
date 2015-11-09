@@ -2,7 +2,8 @@
 #include <conio.h>
 void main()
 {
-    int c,i,j,first,temp,last,middle,n,search,a[100],ch;
+  /* hghgfhghfh**/
+  int c,i,j,first,temp,last,middle,n,search,a[100],ch;
     printf("Enter number of elements\n");
     scanf("%d",&n);
     for (c = 0; c < n; c++)
